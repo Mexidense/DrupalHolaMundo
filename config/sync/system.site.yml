@@ -1,0 +1,14 @@
+uuid: fdb25214-1a71-4458-ab62-90a89c9cb612
+name: HolaMundo.local
+mail: info@HolaMundo.local
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
